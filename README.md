@@ -16,10 +16,11 @@ PyAI - an ongoing class/meeting at the Dallas Makerspace
 ## Create an agent
 - mkdir and cd into...
 - `$ uv init`
-- `$ uv add "pydantic-ai[logfire,examples]"
+- `$ uv add "pydantic-ai[logfire,examples,cli,google]"
 
 ## Resources:
 https://docs.astral.sh/uv/getting-started/installation/
+https://ai.pydantic.dev/agents/
 https://llm.datasette.io/en/stable/
 https://context7.com
 
