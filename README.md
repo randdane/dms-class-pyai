@@ -26,6 +26,7 @@ https://context7.com
 
 ## Extra Resources:
 https://www.tiobe.com/tiobe-index/
+https://automatetheboringstuff.com
 
 ## Tips & Tips
 Sending links to Perplexity to summarize (like youtube videos)
