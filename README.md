@@ -38,4 +38,19 @@ PyAI - an ongoing class/meeting at the Dallas Makerspace
 
 ## Ideas:
 - Try to use NotebookLM from outside of itself (unofficial API)
-- Scrape bot for reddit - AI-related subreddits
+- Scrape bot for reddit - AI-related subreddits (to learn more AI stuff)
+- Scrape Discord to get a summary of what was talked about
+
+## TODO:
+1. beginner landing page with instructs to get started (Github Codespaces)
+2. initial project
+  - using pocketflow
+  - have an agent that scrapes a subreddit (input)
+  - display summary of data to termianl
+  - send output as file to Google Drive (output)
+3. use Discord -> Dallas Makerspace -> SIG -> "artificial-intelligence"
+4. Figure out which PocketFlow tutorials should be done in what order,
+which ones build upon others, and which can be grouped for a more complex demo.
+5. Prompt people to give demos of what they created (like a lightening talk)
+6. Ask for ideas/examples of what things or types of things people want to see in the future.
+
