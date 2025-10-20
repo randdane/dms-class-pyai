@@ -1,5 +1,5 @@
 # dms-class-pyai
-PyAI - an ongoing class/meeting at the Dallas Makerspace
+Py in my AI - an ongoing class/meeting at the Dallas Makerspace.
 
 ## Setup Python
 - install `uv`
